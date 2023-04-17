@@ -6,3 +6,5 @@ merge commit -01
 changes in master from remote
 
 rebase commit -01
+
+rebase commit -02 
